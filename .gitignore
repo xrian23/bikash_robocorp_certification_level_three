@@ -15,5 +15,5 @@ temp/
 testrun/*
 .~lock*
 *.pkl
-devdata
-output
+devdata/*
+output/*
